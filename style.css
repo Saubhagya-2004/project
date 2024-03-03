@@ -1,0 +1,28 @@
+body{
+    color: #8a2020;
+    background: url(background.jpg);
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.left{
+    display: inline-block;
+    border: 3px solid aquamarine;
+    position: absolute;
+    left: 34px;
+    top: 12px;
+}
+.mid{
+    display: block;
+    width: 32%;
+    margin: 12px auto;
+    border: 3px solid greenyellow;
+}
+.right{
+    position: absolute;
+    right: 34px;
+    top: 12px;
+    display: inline-block;
+border: 3px solid gold;
+}
