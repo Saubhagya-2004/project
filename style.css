@@ -46,9 +46,7 @@ body{
 .left{
     text-align: center;
 }
-.navbar{
-    /* display: inline-block; */
-}
+
 .navbar li{
     display: inline-block;
 }
