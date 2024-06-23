@@ -8,12 +8,12 @@ body{
     background-attachment: fixed;
 
     }
-/* .left{
+.left{
     display: inline-block;
     /* border: 3px solid aquamarine; */
     position: absolute;
     left: 35px;
-    top: 12px; */
+    top: 12px;
     
 }
 .left div{
